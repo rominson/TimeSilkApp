@@ -1,0 +1,5 @@
+{
+  "name": "TimeSilkApp",
+  "description": "一款富有诗意的生命旅程可视化工具。记录你的生命足迹，设定未来心愿，并跨越时空给未来的自己寄一封信。支持邮箱登录，实时同步你的生命数据和时光胶囊。",
+  "requestFramePermissions": []
+}

@@ -1,11 +1,27 @@
-<div align="center">
+# LifeGrid
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A poetic life journey visualization tool. Record your life footprints, set future wishes, and send a letter across time and space to your future self.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Life Journey Visualization**: See your life in months and years.
+- **Future Letters**: Write letters to your future self that unlock at specific ages.
+- **Life Goals**: Set and track your life milestones.
+- **Time Certificates**: Generate beautiful certificates for your time capsules.
+- **Real-time Sync**: Synchronize your data across devices using Firebase.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Tech Stack
 
-</div>
+- React 19
+- Vite
+- Tailwind CSS 4
+- Firebase (Auth & Firestore)
+- Motion (Framer Motion)
+- Lucide Icons
+
+## Getting Started
+
+1. Clone the repository.
+2. Install dependencies: `npm install`.
+3. Set up your Firebase configuration in `firebase-applet-config.json`.
+4. Run the development server: `npm run dev`.
